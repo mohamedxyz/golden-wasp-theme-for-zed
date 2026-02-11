@@ -1,0 +1,64 @@
+{
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
+  "name": "Golden Wasp Themes",
+  "author": "mohamed ahmed",
+  "themes": [
+    {
+      "name": "Golden Wasp X",
+      "appearance": "dark",
+      "style": {
+        "background": "#0f0f0f",
+        "foreground": "#fefefe",
+        "accent": "#ffea00",
+        "panel.background": "#0d0d0d",
+        "panel.border": "#1a1a1a",
+        "title_bar.background": "#111111",
+        "tab.active_background": "#191919",
+        "tab.inactive_background": "#0f0f0f",
+        "tab.active_foreground": "#ffea00",
+        "tab.inactive_foreground": "#7f7f7f",
+        "status_bar.background": "#0d0d0d",
+        "status_bar.foreground": "#eaeaea",
+        "editor.background": "#0f0f0f",
+        "editor.foreground": "#fefefe",
+        "editor.gutter": "#0f0f0f",
+        "editor.line_number": "#5a5a5a",
+        "editor.active_line_number": "#ffea00",
+        "editor.active_line": "#1b1b1b",
+        "editor.selection": "#333300",
+        "editor.cursor": "#ffea00"
+      },
+      "syntax": {
+        "keyword": "#ffea00",
+        "constant": "#ffd600",
+        "string": "#ffb900",
+        "number": "#ffdd55",
+        "comment": "#6e6e6e",
+        "function": "#ffee7a",
+        "variable": "#fefefe",
+        "type": "#ffe066",
+        "operator": "#ffea00",
+        "punctuation": "#fefefe"
+      },
+      "terminal": {
+        "ansiBlack": "#0f0f0f",
+        "ansiRed": "#ff4040",
+        "ansiGreen": "#72ff72",
+        "ansiYellow": "#ffea00",
+        "ansiBlue": "#72b5ff",
+        "ansiMagenta": "#ff72d0",
+        "ansiCyan": "#72ffe7",
+        "ansiWhite": "#d0d0d0",
+        "ansiBrightBlack": "#444444",
+        "ansiBrightRed": "#ff6e6e",
+        "ansiBrightGreen": "#7fff7f",
+        "ansiBrightYellow": "#ffff55",
+        "ansiBrightBlue": "#7fbfff",
+        "ansiBrightMagenta": "#ff7fd0",
+        "ansiBrightCyan": "#7fffd7",
+        "ansiBrightWhite": "#ffffff"
+      }
+    }
+  ]
+}
+
